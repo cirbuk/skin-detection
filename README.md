@@ -43,6 +43,6 @@ For Windows : https://www.learnopencv.com/install-opencv-3-and-dlib-on-windows-p
 
 Citations
 -------------
-Most of the help for this project came from these post
+Most of the help for this project came from these posts
 >- https://www.pyimagesearch.com/2014/05/26/opencv-python-k-means-color-clustering/
 >- https://stackoverflow.com/questions/8753833/exact-skin-color-hsv-range
